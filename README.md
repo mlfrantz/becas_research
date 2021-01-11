@@ -1,2 +1,2 @@
 # becas_research
-Helping out my baby.
+Downloads data from Reddit and utilizes a sentiment analyzer to look at Reddit comments.
